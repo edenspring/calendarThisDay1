@@ -15,5 +15,7 @@ try to go through the reference documentation first to see if you can piece it
 together. The project references some articles
 ### Articles/Readings mentioned in README
 Some links that will be helpful when completing this on your own
+
 [Routing Blueprints In Flask](https://open.appacademy.io/learn/js-py---pt-feb-2022-online/week-35---flask-and-sqlite3/routing-blueprints-in-flask)
+
 [Jinja Templates](https://open.appacademy.io/learn/js-py---pt-feb-2022-online/week-35---flask-and-sqlite3/jinja-templates)
